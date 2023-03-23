@@ -1,2 +1,2 @@
 # git-course
-For Elzero Web School
+For Making Projects
